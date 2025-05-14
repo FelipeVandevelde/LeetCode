@@ -33,6 +33,6 @@ A ideia é simples: a cada problema resolvido, eu o publico neste repositório j
 
 
 ## LeetCode Statistics
-I utilize the LeetCode-Stats-Card to display my current statistics:
+Utilizei o [LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) para exibir minhas estatísticas atuais de forma visual e atualizada:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/FelipeVandevelde)](https://leetcode.com/FelipeVandevelde)

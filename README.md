@@ -35,7 +35,7 @@ The idea is simple, every problem solved I posting in this repository with the e
 
 
 ## LeetCode Statistics
-I utilize the LeetCode-Stats-Card to display my current statistics:
+I used [LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) to display my current statistics in a visual and up-to-date format:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/FelipeVandevelde)](https://leetcode.com/FelipeVandevelde)
 
