@@ -6,33 +6,28 @@ LeetCode LLC, operando sob o nome de LeetCode, é uma plataforma online para pre
 A ideia é simples: a cada problema resolvido, eu o publico neste repositório junto com a explicação de como o problema foi solucionado.
 
 ## Linguagens de programação
-### Linguagens que o LeetCode permite
-- C++
-- Java
-- Python
-- Python3
-- C
-- C#
-- JavaScript
-- TypeScript
-- PHP
-- Swift
-- Kotlin
-- Dart
-- Go
-- Ruby
-- Scala
-- Rust
-- Racket
-- Erlang
-- Elixir
 
-### Linguagens que serão utilizadas
-- C++
-- Java
-- Python3
-- C
-- C#
-- JavaScript
+| Linguagem       | Suportada pelo LeetCode | Usada neste repositório |
+|:---:|:---:|:---:|
+| C++              | ✅                        | ✅                         |
+| Java             | ✅                        | ✅                         |
+| Python           | ✅                        | ❌                         |
+| Python3          | ✅                        | ✅                         |
+| C                | ✅                        | ✅                         |
+| C#               | ✅                        | ✅                         |
+| JavaScript       | ✅                        | ✅                         |
+| TypeScript       | ✅                        | ❌                         |
+| PHP              | ✅                        | ❌                         |
+| Swift            | ✅                        | ❌                         |
+| Kotlin           | ✅                        | ❌                         |
+| Dart             | ✅                        | ❌                         |
+| Go               | ✅                        | ❌                         |
+| Ruby             | ✅                        | ❌                         |
+| Scala            | ✅                        | ❌                         |
+| Rust             | ✅                        | ❌                         |
+| Racket           | ✅                        | ❌                         |
+| Erlang           | ✅                        | ❌                         |
+| Elixir           | ✅                        | ❌                         |
+
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/FelipeVandevelde)](https://leetcode.com/FelipeVandevelde)

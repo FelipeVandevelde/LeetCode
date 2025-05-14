@@ -7,6 +7,34 @@ LeetCode LLC, doing business as LeetCode, is an online platform for coding inter
 ## How it's works?
 The idea is simple, every problem solved I posting in this repository with the explanation saying how I the problem solved.
 
-## What languages will used?
+## Programming languages
+### Languages ​​that LeetCode supports
+- C++
+- Java
+- Python
+- Python3
+- C
+- C#
+- JavaScript
+- TypeScript
+- PHP
+- Swift
+- Kotlin
+- Dart
+- Go
+- Ruby
+- Scala
+- Rust
+- Racket
+- Erlang
+- Elixir
+
+### Languages ​​that will be used
+- C++
+- Java
+- Python3
+- C
+- C#
+- JavaScript
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/FelipeVandevelde)](https://leetcode.com/FelipeVandevelde)
