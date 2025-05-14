@@ -6,9 +6,8 @@ LeetCode LLC, operando sob o nome de LeetCode, é uma plataforma online para pre
 A ideia é simples: a cada problema resolvido, eu o publico neste repositório junto com a explicação de como o problema foi solucionado.
 
 ## Linguagens de programação
-
 | Linguagem       | Suportada pelo LeetCode | Usada neste repositório |
-|:---:|:---:|:---:|
+|:---:|---::|:---:|
 | C++              | ✅                        | ✅                         |
 | Java             | ✅                        | ✅                         |
 | Python           | ✅                        | ❌                         |
