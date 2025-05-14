@@ -1,3 +1,5 @@
+*Este é o Readme do projeto em inglês, caso prefira acompanhar o Readme em Português-BR, [clique aqui](./README-PT.md)*
+
 # LeetCode
 ![Logo do LeetCode](./media/LeetCode_Logo_black_with_text.png)
 LeetCode LLC, doing business as LeetCode, is an online platform for coding interview preparation. The platform provides coding and algorithmic problems intended for users to practice coding. LeetCode has gained popularity among job seekers in the software industry and coding enthusiasts as a resource for technical interviews and coding competitions.

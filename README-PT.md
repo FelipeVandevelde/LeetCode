@@ -5,8 +5,8 @@ LeetCode LLC, operando sob o nome de LeetCode, é uma plataforma online para pre
 ## Como funciona?
 A ideia é simples: a cada problema resolvido, eu o publico neste repositório junto com a explicação de como o problema foi solucionado.
 
-## Quais linguagens o LeetCode permite?
-As linguagens que o LeetCode permite são:
+## Linguagens de programação
+### Linguagens que o LeetCode permite
 - C++
 - Java
 - Python
@@ -27,7 +27,7 @@ As linguagens que o LeetCode permite são:
 - Erlang
 - Elixir
 
-### Quais linguagens serão utilizadas?
+### Linguagens que serão utilizadas
 - C++
 - Java
 - Python3
